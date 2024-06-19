@@ -1,2 +1,2 @@
-# prepcourse-henry
-Este es un repositorio de prueba de modulo 2 de prepcourse henry
+# prepcourse-henry esteban acosta 
+como crear un repositorio desde githube y clonarlo a mi computadora
